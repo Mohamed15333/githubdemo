@@ -4,7 +4,10 @@ header{
 }
 div{
     background-color: rgb(218, 160, 0);
-    height: 10vh;
+    height: fit-content;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    
 }
 footer{
     background-color: greenyellow;
